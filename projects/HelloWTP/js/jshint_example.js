@@ -15,7 +15,7 @@ function thisIsNeverUsed(){
 }
 
 function getName(){
-	var fn = "John";
+	var fn = "Joe";
 	var ln = "Smith";
 	var cn = ln + ", " + fn;
 	return cn;
